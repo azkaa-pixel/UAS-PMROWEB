@@ -414,73 +414,58 @@ File CSS untuk mempercantik tampilan dengan:
 
 ### 1️⃣ Halaman Login
 **Deskripsi:** Tampilan form login dengan design modern, ada icon, gradient button.  
-**Screenshot:** Ambil foto saat buka `http://localhost/perpustakaan-app/public/login`
 
-![Login](screenshot/login.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/login.png)
 
 ---
 
 ### 2️⃣ Halaman Registrasi/Daftar
 **Deskripsi:** Form daftar akun baru dengan validasi username.  
-**Screenshot:** Klik "Daftar Sekarang" di halaman login.
 
-![Daftar](screenshot/daftar.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/daftar.png)
 
 ---
 
 ### 3️⃣ Dashboard User
 **Deskripsi:** User hanya bisa **melihat** daftar buku, ada search & pagination.  
-**Screenshot:** Login dengan `gepiimut/111`
 
-![Dashboard User](screenshot/dashboard-user.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/dashboard%20user%201.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/dashboard%20user%202.png)
 
 ---
 
 ### 4️⃣ Dashboard Admin - Statistik
 **Deskripsi:** Admin melihat total buku & user dalam card statistik.  
-**Screenshot:** Login dengan `admingepi/222` (bagian atas halaman)
 
-![Admin Stats](screenshot/admin-stats.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/dashboard%20admin%202.png)
 
 ---
 
 ### 5️⃣ Dashboard Admin - Form Tambah Buku
 **Deskripsi:** Form untuk menambah buku baru (judul, penulis, stok).  
-**Screenshot:** Bagian form di halaman admin.
 
-![Admin Form](screenshot/admin-form.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/dashboard%20admin%201.png)
 
 ---
 
 ### 6️⃣ Dashboard Admin - Tabel CRUD
 **Deskripsi:** Tabel daftar buku dengan tombol **Edit** dan **Hapus**.  
-**Screenshot:** Scroll ke bawah di halaman admin.
 
-![Admin Table](screenshot/admin-table.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/dashboard%20admin%202.png)
 
 ---
 
 ### 7️⃣ Edit Buku
 **Deskripsi:** Saat klik "Edit", form otomatis terisi data buku yang mau diedit.  
-**Screenshot:** Klik button "Edit" di salah satu buku.
 
-![Edit Buku](screenshot/edit-buku.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/edit%20buku.png)
 
 ---
 
 ### 8️⃣ Search Buku
 **Deskripsi:** User/Admin bisa search buku berdasarkan judul atau penulis.  
-**Screenshot:** Ketik kata kunci di search box, lalu klik "Cari".
 
-![Search](screenshot/search.png)
-
----
-
-### 9️⃣ Pagination
-**Deskripsi:** Navigasi halaman untuk data buku (5 per halaman).  
-**Screenshot:** Scroll ke bawah tabel, ada nomor halaman.
-
-![Pagination](screenshot/pagination.png)
+![foto](https://github.com/azkaa-pixel/UAS-PMROWEB/blob/f0b443faf12440d7c9ed85996308a7ee262bf9fc/uas%20pemrograman%20web/cari.png)
 
 ---
 
@@ -517,6 +502,3 @@ Project ini berhasil memenuhi semua ketentuan tugas UAS:
 5. **CRUD lengkap** dengan search & pagination
 6. Design **responsive** dan modern
 
----
-
-**© 2025 - Tugas UAS Pemrograman Web**
